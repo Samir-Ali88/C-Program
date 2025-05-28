@@ -17,12 +17,12 @@ After building confidence in Python, I wanted to challenge myself with a new lan
 
 <h1> Tools & Technologies</h>
 
-Language: C
-Compiler: GCC
+Language - C  
+Compiler - GCC  
+Editor - VS Code  
 
-Editor: Code::Blocks / VS Code / any other editor
+Feel free to explore, learn, and follow my journey!  
+This is just the beginning — more to come as I grow.
 
-Feel free to explore, learn, and follow my journey!
-This is just the beginning — more to come as I grow. 
 
 
